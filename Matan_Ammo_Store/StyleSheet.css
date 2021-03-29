@@ -1,0 +1,22 @@
+﻿body {
+    background-color: darkblue;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+    color: yellow;
+    font-size: 50px;
+    font-weight: bolder;
+    position: absolute;
+    top: 28px;
+    left: 642px;
+    z-index: 1;
+}
+
+table {
+    position: relative;
+}
+
+td, p, span, a:link { 
+    color: white;
+}
